@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Full-Stack+Development+with+Django+%26+Java;Integrating+AI+into+real-world+projects;Teaching+Software+Engineering+%26+Web+Development" alt="Typing SVG"/>
 
-<br><br>
-
+<br>
 <a href="https://www.linkedin.com/in/amalda-patrick2002">
 <img src="https://img.shields.io/badge/LinkedIn-170B26?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/>
 </a>
@@ -18,14 +17,11 @@
 <img src="https://img.shields.io/badge/Email-170B26?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=amaldapatrick001&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0612,50:3B1D68,100:7C3AED&height=4&section=header" width="100%"/>
-
 
 
 
