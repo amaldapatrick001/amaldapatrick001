@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&width=620&lines=Building+full-stack+apps+with+Django+%26+Java;Shipping+small+ML-backed+tools;Teaching+Software+Engineering+%26+Web+Dev;Exploring+Generative+AI+%26+Transformers" alt="Typing SVG"/>
 
-<br/>
-
 <a href="https://www.linkedin.com/in/amalda-patrick2002"><img src="https://img.shields.io/badge/LinkedIn-0D0714?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/></a>
 <a href="https://github.com/amaldapatrick001"><img src="https://img.shields.io/badge/GitHub-0D0714?style=for-the-badge&logo=github&logoColor=F8FAFC"/></a>
 <a href="mailto:amaldapatrick@gmail.com"><img src="https://img.shields.io/badge/Email-0D0714?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
@@ -14,6 +12,7 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0714,50:1a0b2e,100:0D0714&height=3&section=header" width="100%"/>
 
 ### ✦ About
 
