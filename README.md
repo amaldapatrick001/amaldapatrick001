@@ -125,20 +125,40 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 <div align="center">
 
 ---
+<!-- ========================================================= -->
+<!--                    GitHub Activity                        -->
+<!-- ========================================================= -->
 
 ## 📊 GitHub Activity
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amaldapatrick001&theme=tokyonight&hide_border=true&background=0D1117" />
+<i>My GitHub activity reflects my journey of learning, building, and continuously improving through real-world projects.</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaldapatrick001&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amaldapatrick001/amaldapatrick001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=amaldapatrick001&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FFFFFF"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaldapatrick001&theme=github_dark" width="95%"/>
+
 </p>
 
 ---
@@ -151,9 +171,13 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/amalda-patrick2002">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/amaldapatrick001">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -162,16 +186,23 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 </p>
 
 <p align="center">
-<b>Open to Software Engineering, Full Stack Development, and Backend Development opportunities.</b>
+
+**Software Engineer • Full Stack Developer • Backend Developer**
+
 </p>
 
 <p align="center">
+
 📍 Kerala, India
+
 </p>
 
 ---
 
 <p align="center">
-<i>Thanks for visiting my profile.</i><br>
-<sub>Building reliable software, one project at a time.</sub>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Turning ideas into reliable, scalable, and maintainable software."*
+
 </p>
