@@ -178,23 +178,18 @@ I'm always open to collaborating on innovative projects, contributing to open so
 </p>
 
 <br>
-
 <p align="center">
 
 <a href="mailto:amaldapatrick@gmail.com">
-<img src="https://img.shields.io/badge/Email-170B26?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/>
+  <img src="https://img.shields.io/badge/Email-170B26?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email" />
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/amalda-patrick2002">
-<img src="https://img.shields.io/badge/LinkedIn-170B26?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/>
+<a href="https://www.linkedin.com/in/amalda-patrick2002" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-170B26?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn" />
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/amaldapatrick001">
-<img src="https://img.shields.io/badge/GitHub-170B26?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
+<a href="https://github.com/amaldapatrick001" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-170B26?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" />
 </a>
 
 </p>
