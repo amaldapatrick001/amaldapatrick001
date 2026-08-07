@@ -14,19 +14,18 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0714,50:1a0b2e,100:0D0714&height=3&section=header" width="100%"/>
-
 
 ### ✦ About
 
 I'm an MCA graduate working across **Java, Python, and Django**, building full-stack web applications and layering in ML-driven features — disease detection, recommendation logic, chatbot assistance — on real, deployed projects. I currently teach Software Engineering and Web Development as an Assistant Professor, while continuing to build and ship outside the classroom.
 
-> *I like software that's easy to explain and code that's easy to hand off.*
+> *"I believe great software should be simple to understand, easy to maintain, and built to solve real-world problems."*
 
 **Currently**
-- 🎓 Teaching Programming, Software Engineering, DBMS, AI/ML, and Web Technologies
-- 🧠 Working through Generative AI and transformer-based architectures
-- 💼 Open to **Software Engineer**, **Full-Stack Developer**, or **IT Consultant** roles
+- Building full-stack applications with Java, Python, and Django
+- Teaching Programming, Software Engineering, DBMS, Machine Learning, Artificial Intelligence, and Web Technologies
+- Exploring Generative AI, LLMs, and modern AI technologiess
+- Open to **Software Engineer**, **Full-Stack Developer**, or **IT Consultant** roles
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0714,50:1a0b2e,100:0D0714&height=3&section=header" width="100%"/>
 
