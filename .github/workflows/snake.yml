@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch:        # allows manual trigger
+  workflow_dispatch:      # allows manual trigger
   push:
     branches:
       - main
@@ -12,7 +12,9 @@ jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate snake animation
         uses: Platane/snk@v3
