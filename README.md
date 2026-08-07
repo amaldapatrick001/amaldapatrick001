@@ -128,10 +128,6 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amaldapatrick001&theme=tokyonight&hide_border=true&background=0D1117" />
