@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=190&section=header&text=Amalda%20Patrick&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0b2e,100:000000&height=190&section=header&text=Amalda%20Patrick&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=Full-stack+development+with+Django+%26+Java;Building+and+shipping+small+ML-backed+tools;Teaching+Software+Engineering+%26+Web+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=580&lines=Full-stack+development+with+Django+%26+Java;Building+and+shipping+small+ML-backed+tools;Teaching+Software+Engineering+%26+Web+Development;Currently+exploring+Generative+AI+%26+Transformers" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/amalda-patrick2002"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22D3EE"/></a>
-<a href="https://github.com/amaldapatrick001"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F8FAFC"/></a>
-<a href="mailto:amaldapatrick@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=10B981"/></a>
+<a href="https://www.linkedin.com/in/amalda-patrick2002"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=A78BFA"/></a>
+<a href="https://github.com/amaldapatrick001"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=F8FAFC"/></a>
+<a href="mailto:amaldapatrick@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=8B5CF6"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=amaldapatrick001&color=22D3EE&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=amaldapatrick001&color=A78BFA&style=flat-square&label=Profile+Views"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0b2e&height=2&section=header" width="100%"/>
 
 ## About
 
@@ -26,7 +26,7 @@ MCA graduate working across Java, Python, and Django, with hands-on experience b
 - Working through Generative AI and transformer-based architectures
 - Open to Software Engineer, Full-Stack Developer, or IT Consultant roles
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:000000&height=2&section=header" width="100%"/>
 
 ## Projects
 
@@ -42,7 +42,7 @@ Tracks inter-state vehicle movement with a structured database built for efficie
 `PHP` `MySQL` — 2022
 Handles online food ordering and table reservations, with separate customer and administrator modules for managing menus and bookings.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0b2e&height=2&section=header" width="100%"/>
 
 ## Tech Stack
 
@@ -52,7 +52,7 @@ Handles online food ordering and table reservations, with separate customer and 
 **Machine Learning** — Feature engineering, model training, model evaluation
 **Tools** — Git, GitHub, VS Code, Linux
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:000000&height=2&section=header" width="100%"/>
 
 ## Experience
 
@@ -82,7 +82,7 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 - Volunteer — NASA Space Apps Challenge, 2024
 - Participant — Smart India Hackathon, 2024
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0b2e&height=2&section=header" width="100%"/>
 
 <div align="center">
 
@@ -92,20 +92,28 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&hide_border=true&bg_color=161B22&title_color=22D3EE&icon_color=10B981&text_color=F8FAFC" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&hide_border=true&bg_color=161B22&title_color=22D3EE&text_color=F8FAFC" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&hide_border=true&bg_color=000000&title_color=A78BFA&icon_color=8B5CF6&text_color=F8FAFC" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&hide_border=true&bg_color=000000&title_color=A78BFA&text_color=F8FAFC" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaldapatrick001&bg_color=0D1117&color=F8FAFC&line=22D3EE&point=10B981&hide_border=true" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amaldapatrick001&hide_border=true&background=000000&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=6b7280" width="80%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaldapatrick001&bg_color=000000&color=F8FAFC&line=A78BFA&point=8B5CF6&hide_border=true" width="95%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=amaldapatrick001&theme=onedark&no-frame=true&column=7&margin-w=8" />
+<img src="https://ghchart.rshah.org/A78BFA/amaldapatrick001" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=amaldapatrick001&theme=radical&no-frame=true&column=7&margin-w=8" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:000000&height=2&section=header" width="100%"/>
 
 ## Contact
 
@@ -113,6 +121,6 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0b2e,100:000000&height=110&section=footer" width="100%"/>
 
 </div>
