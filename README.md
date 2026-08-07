@@ -125,38 +125,57 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 ---
 <!-- ========================================================= -->
-<!--                    GitHub Activity                        -->
+<!--                   📊 GitHub Activity                      -->
 <!-- ========================================================= -->
 
-## 📊 GitHub Activity
+---
 
-<p align="center">
-<i>My GitHub activity reflects my journey of learning, building, and continuously improving through real-world projects.</i>
-</p>
-
-<br>
+# 📊 GitHub Activity
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+*A visual overview of my software development journey, coding consistency, technology expertise, and continuous learning through real-world projects.*
 
 </p>
 
 <br>
 
+<!-- ======================= GitHub Stats ======================= -->
+
 <p align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=amaldapatrick001&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FFFFFF"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=C9D1D9"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
 </p>
 
 <br>
 
+<!-- =================== Contribution Streak ==================== -->
+
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaldapatrick001&theme=github_dark" width="95%"/>
+<img width="78%" src="https://streak-stats.demolab.com?user=amaldapatrick001&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=C084FC&sideNums=C9D1D9&currStreakNum=FFFFFF"/>
+
+</p>
+
+<br>
+
+<!-- =================== Profile Summary ========================= -->
+
+<p align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaldapatrick001&theme=github_dark"/>
+
+</p>
+
+<!-- ================= Contribution Snake ======================== -->
+
+
+<p align="center">
+
+<img width="95%" src="https://raw.githubusercontent.com/amaldapatrick001/amaldapatrick001/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </p>
 
