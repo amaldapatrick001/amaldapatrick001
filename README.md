@@ -101,15 +101,7 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaldapatrick001&bg_color=000000&color=F8FAFC&line=A78BFA&point=8B5CF6&hide_border=true" width="95%"/>
-
-<br/>
-
-<img src="https://ghchart.rshah.org/A78BFA/amaldapatrick001" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=amaldapatrick001&theme=radical&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=amaldapatrick001&theme=discord&no-frame=true&column=7&margin-w=8" />
 
 </div>
 
