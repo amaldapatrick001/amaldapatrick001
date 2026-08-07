@@ -138,19 +138,15 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 </p>
 
 <br>
-
-<!-- ======================= GitHub Stats ======================= -->
+<!-- ======================= GitHub Trophies ======================= -->
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=C9D1D9"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=amaldapatrick001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4"/>
 
 </p>
 
 <br>
-
 <!-- =================== Contribution Streak ==================== -->
 
 <p align="center">
