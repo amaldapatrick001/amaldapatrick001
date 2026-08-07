@@ -124,39 +124,58 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 <div align="center">
 
-### ✦ GitHub Activity
+---
 
-<img src="https://raw.githubusercontent.com/amaldapatrick001/amaldapatrick001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+## 📊 GitHub Activity
 
-<br/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&hide_border=true&bg_color=0D0714&title_color=C4B5FD&icon_color=8B5CF6&text_color=F8FAFC&ring_color=A78BFA" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&hide_border=true&bg_color=0D0714&title_color=C4B5FD&text_color=F8FAFC" height="165"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amaldapatrick001&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaldapatrick001&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amaldapatrick001&hide_border=true&background=0D0714&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=6b7280" width="80%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amaldapatrick001/amaldapatrick001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+</p>
 
-<br/><br/>
+---
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=amaldapatrick001&theme=discord&no-frame=true&column=7&margin-w=8"/>
+## 🤝 Let's Connect
 
-</div>
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0714,50:1a0b2e,100:0D0714&height=3&section=header" width="100%"/>
+<a href="mailto:amaldapatrick@gmail.com">
+<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/amalda-patrick2002">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### ✦ Let's Connect
+<a href="https://github.com/amaldapatrick001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0714?style=for-the-badge&logo=linkedin&logoColor=C4B5FD)](https://www.linkedin.com/in/amalda-patrick2002)
-[![GitHub](https://img.shields.io/badge/GitHub-0D0714?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/amaldapatrick001)
-[![Email](https://img.shields.io/badge/Email-0D0714?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:amaldapatrick@gmail.com)
+</p>
 
-📍 Kottayam, Kerala, India
+<p align="center">
+<b>Open to Software Engineering, Full Stack Development, and Backend Development opportunities.</b>
+</p>
 
-<br/>
+<p align="center">
+📍 Kerala, India
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0714,50:1a0b2e,100:0D0714&height=120&section=footer" width="100%"/>
+---
 
-</div>
+<p align="center">
+<i>Thanks for visiting my profile.</i><br>
+<sub>Building reliable software, one project at a time.</sub>
+</p>
