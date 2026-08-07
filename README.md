@@ -133,7 +133,7 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 <p align="center">
 
-*A visual overview of my software development journey, coding consistency, technology expertise, and continuous learning through real-world projects.*
+*A snapshot of my development journey, showcasing coding consistency, project contributions, and continuous growth as a software engineer.*
 
 </p>
 
@@ -167,18 +167,44 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 ---
 
-### ✦ Let's Connect
+---
 
-I'm always interested in discussing software development, open-source collaboration, and exciting opportunities.
+# 🤝 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0714?style=for-the-badge&logo=linkedin&logoColor=C4B5FD)](https://www.linkedin.com/in/amalda-patrick2002)
-[![GitHub](https://img.shields.io/badge/GitHub-0D0714?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/amaldapatrick001)
-[![Email](https://img.shields.io/badge/Email-0D0714?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:amaldapatrick@gmail.com)
+<p align="center">
 
-📍 Kottayam, Kerala, India
+I'm always open to collaborating on innovative projects, contributing to open source, and discussing software engineering opportunities.
 
-<br/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0714,50:1a0b2e,100:0D0714&height=120&section=footer" width="100%"/>
+<br>
 
-</div>
+<p align="center">
+
+<a href="mailto:amaldapatrick@gmail.com">
+<img src="https://img.shields.io/badge/Email-170B26?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/amalda-patrick2002">
+<img src="https://img.shields.io/badge/LinkedIn-170B26?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/amaldapatrick001">
+<img src="https://img.shields.io/badge/GitHub-170B26?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+📍 Kerala, India
+
+</p>
+
+---
