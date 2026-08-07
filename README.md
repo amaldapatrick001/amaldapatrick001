@@ -16,15 +16,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0714,50:1a0b2e,100:0D0714&height=3&section=header" width="100%"/>
 
-## ✨ About Me
+### ✦ About
 
-I'm a software engineer focused on backend and full-stack development using **Java**, **Python**, and **Django**.
+I'm an MCA graduate working across **Java, Python, and Django**, building full-stack web applications and layering in ML-driven features — disease detection, recommendation logic, chatbot assistance — on real, deployed projects. I currently teach Software Engineering and Web Development as an Assistant Professor, while continuing to build and ship outside the classroom.
 
-I enjoy designing maintainable systems, developing RESTful APIs, and building practical software that solves real-world problems. Alongside web development, I explore machine learning by integrating intelligent features into production-oriented applications.
+> *I like software that's easy to explain and code that's easy to hand off.*
 
-Currently, I work as an **Assistant Professor in Computer Applications**, where I teach Software Engineering, Programming, and Web Development while actively building personal and academic software projects.
+**Currently**
+- 🎓 Teaching Programming, Software Engineering, DBMS, AI/ML, and Web Technologies
+- 🧠 Working through Generative AI and transformer-based architectures
+- 💼 Open to **Software Engineer**, **Full-Stack Developer**, or **IT Consultant** roles
 
-> *"Good software should be simple to understand, easy to maintain, and enjoyable to use."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0714,50:1a0b2e,100:0D0714&height=3&section=header" width="100%"/>
 
 ### ✦ Featured Project
 
