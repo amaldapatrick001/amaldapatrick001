@@ -165,6 +165,8 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 ### ✦ Let's Connect
 
+I'm always interested in discussing software development, open-source collaboration, and exciting opportunities.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0714?style=for-the-badge&logo=linkedin&logoColor=C4B5FD)](https://www.linkedin.com/in/amalda-patrick2002)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0714?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/amaldapatrick001)
 [![Email](https://img.shields.io/badge/Email-0D0714?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:amaldapatrick@gmail.com)
