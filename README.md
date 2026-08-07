@@ -124,7 +124,7 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 <div align="center">
 
----
+ ---
 
 # 📊 GitHub Activity
 
