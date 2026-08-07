@@ -1,20 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0714,50:1a0b2e,100:0D0714&height=200&section=header&text=Amalda%20Patrick&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Educator&descAlignY=54&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0612,30:170B26,70:3B1D68,100:7C3AED&height=220&section=header&text=Amalda%20Patrick&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Software%20Engineer%20•%20Educator&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&width=620&lines=Building+full-stack+apps+with+Django+%26+Java;Shipping+small+ML-backed+tools;Teaching+Software+Engineering+%26+Web+Dev;Exploring+Generative+AI+%26+Transformers" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Full-Stack+Development+with+Django+%26+Java;Integrating+AI+into+real-world+projects;Teaching+Software+Engineering+%26+Web+Development" alt="Typing SVG"/>
 
-<br/>
+<br><br>
 
-<a href="https://www.linkedin.com/in/amalda-patrick2002"><img src="https://img.shields.io/badge/LinkedIn-0D0714?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/></a>
-<a href="https://github.com/amaldapatrick001"><img src="https://img.shields.io/badge/GitHub-0D0714?style=for-the-badge&logo=github&logoColor=F8FAFC"/></a>
-<a href="mailto:amaldapatrick@gmail.com"><img src="https://img.shields.io/badge/Email-0D0714?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
+<a href="https://www.linkedin.com/in/amalda-patrick2002">
+<img src="https://img.shields.io/badge/LinkedIn-170B26?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=amaldapatrick001&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS"/>
+<a href="https://github.com/amaldapatrick001">
+<img src="https://img.shields.io/badge/GitHub-170B26?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
+</a>
+
+<a href="mailto:amaldapatrick@gmail.com">
+<img src="https://img.shields.io/badge/Email-170B26?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=amaldapatrick001&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0714,50:1a0b2e,100:0D0714&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0612,50:3B1D68,100:7C3AED&height=4&section=header" width="100%"/>
+
+
+
 
 ### ✦ About
 
