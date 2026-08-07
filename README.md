@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amalda%20Patrick&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=200&section=header&text=Amalda%20Patrick&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+Django+%26+Java;Crafting+AI-powered+solutions;MCA+Graduate+%7C+Educator+%7C+Lifelong+Learner" alt="Typing SVG" />
 
@@ -21,10 +21,10 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Experience-1%2B%20Year-A78BFA?style=for-the-badge&labelColor=0d1117"/></td>
-<td align="center"><img src="https://img.shields.io/badge/CGPA-8.91%20(MCA)-A78BFA?style=for-the-badge&labelColor=0d1117"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Projects-3%2B%20Shipped-A78BFA?style=for-the-badge&labelColor=0d1117"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Role-Software%20Engineer-A78BFA?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Experience-1%2B%20Year-A78BFA?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CGPA-8.91%20(MCA)-A78BFA?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Projects-3%2B%20Shipped-A78BFA?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Role-Software%20Engineer-A78BFA?style=for-the-badge&labelColor=000000"/></td>
 </tr>
 </table>
 
@@ -212,14 +212,14 @@ A web-based restaurant management system supporting online ordering and table re
 
 <img src="https://raw.githubusercontent.com/amaldapatrick001/amaldapatrick001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>Animated snake eating contribution squares — see setup note below to activate it on your profile.</sub>
+<sub>Animated snake eating contribution squares on a black background — see setup note below to activate it on your profile.</sub>
 
 <br/><br/>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A78BFA&icon_color=A78BFA" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A78BFA" height="165"/>
 
 <br/>
 
@@ -233,7 +233,7 @@ A web-based restaurant management system supporting online ordering and table re
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
 
