@@ -126,28 +126,21 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amaldapatrick001&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaldapatrick001&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amaldapatrick001/amaldapatrick001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+  <img src="https://streak-stats.demolab.com?user=amaldapatrick001&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -166,16 +159,23 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 </p>
 
 <p align="center">
-<b>Open to Software Engineering, Full Stack Development, and Backend Development opportunities.</b>
+
+**Open to Software Engineering • Backend Development • Full-Stack Development Opportunities**
+
 </p>
 
 <p align="center">
+
 📍 Kerala, India
+
 </p>
 
 ---
 
 <p align="center">
-<i>Thanks for visiting my profile.</i><br>
-<sub>Building reliable software, one project at a time.</sub>
+
+### Thanks for visiting!
+
+<i>Building clean, scalable, and reliable software — one project at a time.</i>
+
 </p>
