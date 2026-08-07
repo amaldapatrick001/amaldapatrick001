@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0714,50:1a0b2e,100:0D0714&height=200&section=header&text=Amalda%20Patrick&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Assistant%20Professor%2C%20Computer%20Applications&descAlignY=58&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0714,50:1a0b2e,100:0D0714&height=200&section=header&text=Amalda%20Patrick&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Graduate&descAlignY=58&descSize=14" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+Django+%7C+MySQL+%7C+PostgreSQL;Full-stack+development+and+applied+machine+learning;Teaching+Software+Engineering+and+Web+Development" alt="Typing SVG"/>
 
@@ -33,7 +33,7 @@ Best Department Project, AJCE Mastermind 2025
 
 A full-stack nursery platform built around four user roles — customers, admins, plant experts, and delivery staff — each with their own workflow. The interesting parts were the ML side: disease detection from photos, a care-optimization model that factors in solar radiation, and an assistant chatbot for plant queries, on top of image-based search, virtual garden planning, and delivery tracking.
 
-`Django` `PostgreSQL` `REST APIs` `JavaScript` `Bootstrap`
+`Django` `REST APIs` `PostgreSQL` `AI/ML` `JavaScript` `Bootstrap`
 
 </td>
 </tr>
@@ -81,22 +81,24 @@ More projects, including current work, are on my [GitHub](https://github.com/ama
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,bootstrap,django,php,mysql,postgres,git,github,vscode,linux&theme=dark&perline=8"/>
 
-**Machine learning:** Feature Engineering · Model Training · Model Evaluation
-**Core concepts:** OOP · Data Structures · MVC · SDLC · Agile (Scrum) · Git
+**Also working with:** REST APIs · Windows
+
+**Machine learning:** ML Fundamentals · Feature Engineering · Model Training · Model Evaluation
+**Core concepts:** OOP · Data Structures · MVC Architecture · SDLC · Agile (Scrum) · Git
 
 ## Experience
 
 **Assistant Professor, Computer Applications**
 BVM Holy Cross College, Cherpunkal — June 2025 to Present
 
-Teach Programming, Software Engineering, DBMS, AI/ML, and Web Technologies to undergraduates. I mentor around 25 student projects each term across Python, Django, Java, PHP, and MySQL, run project-based lab sessions, and introduce students to Git-based collaboration. I also organize coding workshops and hackathons, and serve as Department Coordinator for IQAC and Alumni Activities.
+Teach Programming, Software Engineering, DBMS, AI/ML, and Web Technologies to undergraduates. I mentor around 25 student projects each term across Python, Django, Java, PHP, and MySQL, run project-based lab sessions, and introduce students to Git-based collaboration. I also organize coding competitions, technical workshops, and department development activities, and serve as Department Coordinator for IQAC and Alumni Activities.
 
 ## Education
 
-| Degree | Institution | CGPA | Years |
-|---|---|---|---|
-| Master of Computer Applications | Amal Jyothi College of Engineering (Autonomous), Kanjirapally | 8.91 | 2023 – 2025 |
-| Bachelor of Computer Applications | BVM Holy Cross College, Cherpunkal | 8.1 | 2020 – 2023 |
+| Degree | Institution | Affiliation | CGPA | Years |
+|---|---|---|---|---|
+| Master of Computer Applications | Amal Jyothi College of Engineering (Autonomous), Kanjirapally | APJ Abdul Kalam Technological University | 8.91 | 2023 – 2025 |
+| Bachelor of Computer Applications | Bishop Vayalil Memorial Holy Cross College, Cherpunkal | MG University | 8.1 | 2020 – 2023 |
 
 ## Certifications
 
@@ -144,7 +146,7 @@ Teach Programming, Software Engineering, DBMS, AI/ML, and Web Technologies to un
 <a href="https://www.linkedin.com/in/amalda-patrick2002" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-170B26?style=flat-square&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/></a>
 <a href="https://github.com/amaldapatrick001" target="_blank"><img src="https://img.shields.io/badge/GitHub-170B26?style=flat-square&logo=github&logoColor=F8FAFC" alt="GitHub"/></a>
 
-Kerala, India
+Kottayam, Kerala, India
 
 </div>
 
