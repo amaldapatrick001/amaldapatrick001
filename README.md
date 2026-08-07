@@ -163,46 +163,16 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 ---
 
-## 🤝 Let's Connect
+### ✦ Let's Connect
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0714?style=for-the-badge&logo=linkedin&logoColor=C4B5FD)](https://www.linkedin.com/in/amalda-patrick2002)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0714?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/amaldapatrick001)
+[![Email](https://img.shields.io/badge/Email-0D0714?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:amaldapatrick@gmail.com)
 
-<a href="mailto:amaldapatrick@gmail.com">
-<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📍 Kottayam, Kerala, India
 
-&nbsp;
+<br/>
 
-<a href="https://www.linkedin.com/in/amalda-patrick2002">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0714,50:1a0b2e,100:0D0714&height=120&section=footer" width="100%"/>
 
-&nbsp;
-
-<a href="https://github.com/amaldapatrick001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-**Software Engineer • Full Stack Developer • Backend Developer**
-
-</p>
-
-<p align="center">
-
-📍 Kerala, India
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Turning ideas into reliable, scalable, and maintainable software."*
-
-</p>
+</div>
