@@ -1,15 +1,17 @@
 <div align="center">
 
-# Hi there, I'm Amalda Patrick 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Amalda%20Patrick&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-### Software Engineer • Full Stack Developer • AI/ML Enthusiast
+<a href="https://www.linkedin.com/in/amalda-patrick2002"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+Django+%26+Java;Crafting+AI-powered+solutions;MCA+Graduate+%7C+Educator+%7C+Lifelong+Learner;Turning+ideas+into+clean%2C+working+code" alt="Typing SVG" /></a>
 
-*Building scalable web applications and AI-powered solutions, one commit at a time.*
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amalda-patrick2002)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amaldapatrick001)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaldapatrick@gmail.com)
 [![Location](https://img.shields.io/badge/Kottayam%2C%20Kerala-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+![Profile Views](https://komarev.com/ghpvc/?username=amaldapatrick001&color=6a11cb&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -34,40 +36,36 @@ Currently, I'm also an **Assistant Professor in Computer Applications**, mentori
 <div align="center">
 
 **Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 
 **Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,django,php" />
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
 
 **Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 **AI / ML & Data Science**
-
+<br/>
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-13aa52?style=flat-square)
+![Model Training](https://img.shields.io/badge/Model%20Training-EF6C00?style=flat-square)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-9C27B0?style=flat-square)
 
 **Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+</div>
+
+---
+
+<div align="center">
+
+> *"Passionate about solving complex problems and building high-quality software."*
 
 </div>
 
@@ -149,10 +147,18 @@ A web-based restaurant management system supporting online ordering and table re
 
 ### 📊 GitHub Stats
 
-![Amalda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=radical&hide_border=true" height="165"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amaldapatrick001&theme=radical&hide_border=true" width="60%"/>
+
+<br/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=amaldapatrick001&theme=radical&no-frame=true&column=7&margin-w=10" />
+
+<br/><br/>
 
 ### 💬 Let's Connect
 
@@ -161,5 +167,9 @@ A web-based restaurant management system supporting online ordering and table re
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amalda-patrick2002)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amaldapatrick001)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaldapatrick@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
 
 </div>
