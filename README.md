@@ -17,17 +17,38 @@
 
 ## 🧭 About Me
 
-I'm an **MCA graduate** with a strong foundation in **Java, Python, Django, SQL, and REST APIs**, passionate about designing scalable web applications and AI-powered solutions. I combine solid software engineering fundamentals — OOP, data structures, and Agile practices — with a curiosity for solving real-world problems through clean, high-quality code.
+<div align="center">
 
-Currently, I'm also an **Assistant Professor in Computer Applications**, mentoring the next generation of developers while continuing to build and ship my own projects.
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Experience-1%2B%20Year-A78BFA?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CGPA-8.91%20(MCA)-A78BFA?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Projects-3%2B%20Shipped-A78BFA?style=for-the-badge&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Role-Software%20Engineer-A78BFA?style=for-the-badge&labelColor=0d1117"/></td>
+</tr>
+</table>
 
+</div>
+
+<br/>
+
+> 🌿 I'm an **MCA graduate** with a strong foundation in **Java, Python, Django, SQL, and REST APIs**, passionate about designing scalable web applications and AI-powered solutions. I combine solid software engineering fundamentals — OOP, data structures, and Agile practices — with a curiosity for solving real-world problems through clean, high-quality code.
+>
+> Currently, I'm also an **Assistant Professor in Computer Applications**, mentoring the next generation of developers while continuing to build and ship my own projects.
+
+<table>
+<tr><td>
+
+```yaml
+🔭 Currently:   Teaching Programming, Software Engineering, DBMS, AI/ML & Web Technologies
+🌱 Exploring:   Generative AI, Transformers & Machine Learning
+💼 Open to:     Software Engineer · Full Stack Developer · IT Consultant roles
+🏆 Recognized:  Best Department Project — Enchanted Eden (AJCE Mastermind 2025)
+📫 Reach me:    amaldapatrick@gmail.com
 ```
-🔭 Currently teaching Programming, Software Engineering, DBMS, AI/ML & Web Technologies
-🌱 Exploring Generative AI, Transformers & Machine Learning
-💼 Open to opportunities as a Software Engineer, Full Stack Developer, or IT Consultant
-🏆 Best Department Project Award — Enchanted Eden (AJCE Mastermind 2025)
-📫 amaldapatrick@gmail.com
-```
+
+</td></tr>
+</table>
 
 <br/>
 
@@ -150,26 +171,50 @@ A web-based restaurant management system supporting online ordering and table re
 
 ## 📜 Certifications & Training
 
-- 🐍 **The Joy of Computing using Python** — NPTEL, May 2024
-- ☕ **Java Foundations** — Oracle Academy, March 2024
-- 🐧 **Mastering Linux** — Udemy, May 2024
-- 🌐 **Python and Django Framework for Beginners** — Udemy, January 2024
-- 🤖 **FDP: Emerging Trends in AI — Generative AI & Transformers** — Amal Jyothi College of Engineering, ISTE & ACM, February 2026
+<details open>
+<summary><b>Click to expand</b></summary>
+<br/>
+
+| Certification | Provider | Date |
+|---|---|---|
+| 🐍 The Joy of Computing using Python | NPTEL | May 2024 |
+| ☕ Java Foundations | Oracle Academy | March 2024 |
+| 🐧 Mastering Linux | Udemy | May 2024 |
+| 🌐 Python and Django Framework for Beginners | Udemy | January 2024 |
+| 🤖 FDP: Emerging Trends in AI — Generative AI & Transformers | AJCE, ISTE & ACM | February 2026 |
+
+</details>
 
 <br/>
 
 ## 🏆 Achievements & Leadership
 
-- 🥇 **Best Department Project Award** — Enchanted Eden (AI Smart Plant Nursery), AJCE Mastermind 2025
-- ⭐ **Manager's Honours for Academic Excellence** — Feb 2025, Oct 2024, Mar 2024
-- 🥈 **Second Prize** — ProfileUp Portfolio Building Competition, 2025
-- 🎓 **Vice President** — AMACE (Computer Applications Association), Amal Jyothi College of Engineering, 2024–2025
-- 🚀 **Volunteer** — NASA Space Apps Challenge, October 2024
-- 💡 **Participant** — Smart India Hackathon (SIH), September 2024
+<details open>
+<summary><b>Click to expand</b></summary>
+<br/>
+
+| Achievement | Detail |
+|---|---|
+| 🥇 Best Department Project Award | Enchanted Eden (AI Smart Plant Nursery) — AJCE Mastermind 2025 |
+| ⭐ Manager's Honours for Academic Excellence | Feb 2025, Oct 2024, Mar 2024 |
+| 🥈 Second Prize | ProfileUp Portfolio Building Competition, 2025 |
+| 🎓 Vice President | AMACE (Computer Applications Association), AJCE, 2024–2025 |
+| 🚀 Volunteer | NASA Space Apps Challenge, October 2024 |
+| 💡 Participant | Smart India Hackathon (SIH), September 2024 |
+
+</details>
 
 <br/>
 
 <div align="center">
+
+## 🐍 Contribution Activity
+
+<img src="https://raw.githubusercontent.com/amaldapatrick001/amaldapatrick001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Animated snake eating contribution squares — see setup note below to activate it on your profile.</sub>
+
+<br/><br/>
 
 ## 📊 GitHub Stats
 
@@ -191,3 +236,18 @@ A web-based restaurant management system supporting online ordering and table re
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
+
+<br/>
+
+<details>
+<summary><sub>⚙️ One-time setup: activating the animated snake</sub></summary>
+<br/>
+
+The snake animation needs a small GitHub Action to generate it from your commit history:
+
+1. In your `amaldapatrick001/amaldapatrick001` repo, create the folder path `.github/workflows/`
+2. Add the provided `snake.yml` file inside it
+3. Push it — GitHub Actions will run automatically and create an `output` branch with the animated SVG
+4. The image in this README will then load and animate on its own — no further steps needed
+
+</details>
