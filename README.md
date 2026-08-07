@@ -101,7 +101,7 @@ Teaches Programming, Software Engineering, DBMS, AI/ML, and Web Technologies. Me
 
 <br/><br/>
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=amaldapatrick001&theme=discord&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=amaldapatrick001&theme=discord&no-frame=true&column=7&margin-w=8" />
 
 </div>
 
