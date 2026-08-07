@@ -1,38 +1,30 @@
-# 👋 Hi, I'm Amalda Patrick
+<div align="center">
 
-### Software Engineer • Full Stack Developer • Backend Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0714,50:1a0b2e,100:0D0714&height=200&section=header&text=Amalda%20Patrick&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Educator&descAlignY=54&descSize=15" width="100%"/>
 
-Building scalable web applications with Java, Python, and Django while exploring AI-powered solutions.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&width=620&lines=Building+full-stack+apps+with+Django+%26+Java;Shipping+small+ML-backed+tools;Teaching+Software+Engineering+%26+Web+Dev;Exploring+Generative+AI+%26+Transformers" alt="Typing SVG"/>
 
-<p align="center">
+<br/>
 
-<a href="https://github.com/amaldapatrick001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/amalda-patrick2002"><img src="https://img.shields.io/badge/LinkedIn-0D0714?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/></a>
+<a href="https://github.com/amaldapatrick001"><img src="https://img.shields.io/badge/GitHub-0D0714?style=for-the-badge&logo=github&logoColor=F8FAFC"/></a>
+<a href="mailto:amaldapatrick@gmail.com"><img src="https://img.shields.io/badge/Email-0D0714?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
 
-<a href="https://linkedin.com/in/amalda-patrick2002">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=amaldapatrick001&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-<a href="mailto:amaldapatrick@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0714,50:1a0b2e,100:0D0714&height=3&section=header" width="100%"/>
-
-### ✦ About
-
-I'm an MCA graduate working across **Java, Python, and Django**, building full-stack web applications and layering in ML-driven features — disease detection, recommendation logic, chatbot assistance — on real, deployed projects. I currently teach Software Engineering and Web Development as an Assistant Professor, while continuing to build and ship outside the classroom.
-
-> *I like software that's easy to explain and code that's easy to hand off.*
-
-**Currently**
-- 🎓 Teaching Programming, Software Engineering, DBMS, AI/ML, and Web Technologies
-- 🧠 Working through Generative AI and transformer-based architectures
-- 💼 Open to **Software Engineer**, **Full-Stack Developer**, or **IT Consultant** roles
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0714,50:1a0b2e,100:0D0714&height=3&section=header" width="100%"/>
+
+## ✨ About Me
+
+I'm a software engineer focused on backend and full-stack development using **Java**, **Python**, and **Django**.
+
+I enjoy designing maintainable systems, developing RESTful APIs, and building practical software that solves real-world problems. Alongside web development, I explore machine learning by integrating intelligent features into production-oriented applications.
+
+Currently, I work as an **Assistant Professor in Computer Applications**, where I teach Software Engineering, Programming, and Web Development while actively building personal and academic software projects.
+
+> *"Good software should be simple to understand, easy to maintain, and enjoyable to use."*
 
 ### ✦ Featured Project
 
