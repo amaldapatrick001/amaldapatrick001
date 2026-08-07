@@ -1,166 +1,209 @@
-<h1 align="center">Hi 👋, I'm Amalda Patrick</h1>
+<div align="center">
 
-<h3 align="center">
-Assistant Professor • MCA Graduate • Software Developer • Python & Django Enthusiast
-</h3>
+# Hi there! 👋 I'm **Amalda Patrick**
 
-<p align="center">
-Passionate about building scalable web applications, solving programming problems, and applying Machine Learning to real-world challenges.
-Currently preparing for Software Development and Software Engineer roles.
+### Software Engineer | Python Developer | Django Developer | AI & Machine Learning Enthusiast
+
+<p>
+Passionate about building scalable web applications, solving real-world problems through software, and continuously learning modern technologies.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+Developer;Django+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀" />
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 MCA Graduate
+
+👩‍🏫 Former Assistant Professor of Computer Applications
+
+💻 Passionate Software Developer
+
+🌱 Currently preparing for Software Engineer roles
+
+🚀 Interested in Full Stack Development, Artificial Intelligence, and Machine Learning
+
+📍 Kerala, India
+
+---
+
+# 💼 Technical Skills
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## Web Development
 
-- 🎓 MCA Graduate
-- 👩‍🏫 Assistant Professor of Computer Applications
-- 💻 Passionate about Software Development
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 🤖 Interested in **Machine Learning & Artificial Intelligence**
-- 🚀 Preparing for **TCS NQT and Software Engineer roles**
-- 📍 Kerala, India
+<p>
+<img src="https://skillicons.dev/icons?i=django,html,css,javascript,bootstrap,php"/>
+</p>
 
 ---
 
-## 💼 Technical Skills
+## Databases
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+</p>
 
 ---
 
-### Web Development
+## Machine Learning & AI
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- TensorFlow
+- Scikit-Learn
+- Pandas
+- NumPy
+- CNN
+- Deep Learning
 
 ---
 
-### Database
+## Tools & Technologies
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎓 Student Management System
+## 🌱 Plant Nursery Management System
 
-✔ Django
+AI-powered Django web application with multiple user roles, plant disease detection, and inventory management.
 
-✔ CRUD Operations
+**Tech Stack**
 
-✔ Authentication
-
-✔ PostgreSQL
-
----
-
-### 🌿 Plant Disease Detection
-
-✔ Deep Learning
-
-✔ CNN
-
-✔ TensorFlow
-
-✔ Image Classification
+- Django
+- Python
+- PostgreSQL
+- TensorFlow
+- Bootstrap
 
 ---
 
-### 👨‍💼 Employee Management System
+## 🎓 Student Management System
 
-✔ Django
+A complete student management application with authentication, attendance, and academic record management.
 
-✔ Bootstrap
+**Tech Stack**
 
-✔ PostgreSQL
-
----
-
-### 💻 Python Interview Programs
-
-✔ Data Structures
-
-✔ Algorithms
-
-✔ OOP
-
-✔ File Handling
+- Django
+- Python
+- PostgreSQL
 
 ---
 
-## 📈 GitHub Statistics
+## 🤖 Plant Disease Detection
 
-> GitHub automatically displays these once you replace `YOUR_USERNAME`.
+Deep Learning model for identifying plant diseases from leaf images using CNN.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+**Tech Stack**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
-
----
-
-## 🎯 Current Goals
-
-- ✅ Crack TCS NQT
-- ✅ Master Data Structures & Algorithms
-- ✅ Build Full Stack Django Applications
-- ✅ Contribute to Open Source
-- ✅ Become a Software Engineer
+- TensorFlow
+- Python
+- OpenCV
 
 ---
 
-## 📫 Connect with Me
+## 📚 Library Management System
 
-📧 Email: your-email@example.com
-
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-
-🌐 GitHub: https://github.com/YOUR_USERNAME
+Web application for managing books, members, borrowing, and returns.
 
 ---
 
-⭐ Thank you for visiting my profile!
+# 📖 Currently Learning
 
-*"Code. Learn. Build. Grow."*
+- Data Structures & Algorithms
+- Advanced Django
+- REST API Development
+- System Design
+- Cloud Computing
+- Docker
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amaldapatrick001&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Career Objective
+
+Seeking opportunities as a
+
+- Software Engineer
+- Python Developer
+- Django Developer
+- Full Stack Developer
+- AI / Machine Learning Engineer
+
+where I can contribute, learn, and grow while building impactful software solutions.
+
+---
+
+# 🌟 Core Competencies
+
+- Problem Solving
+- Object-Oriented Programming
+- Full Stack Web Development
+- REST APIs
+- Database Design
+- Agile Development
+- Git & GitHub
+- Team Collaboration
+- Analytical Thinking
+
+---
+
+# 📫 Connect with Me
+
+📧 **Email**
+
+your-email@example.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/your-profile
+
+🌐 **GitHub**
+
+https://github.com/amaldapatrick001
+
+---
+
+<div align="center">
+
+## ⭐ "Learning never exhausts the mind; building never stops the journey."
+
+### Thank you for visiting my profile!
+
+If you like my projects, consider giving them a ⭐.
+
+</div>
