@@ -127,13 +127,6 @@ Teach Programming, Software Engineering, DBMS, AI/ML, and Web Technologies to un
 
 ## GitHub Activity
 
-<!-- GitHub Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amaldapatrick001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=C9D1D9" />
-
-<!-- Top Languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaldapatrick001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9" />
-
-
 <!-- GitHub Streak -->
 <img width="75%" src="https://streak-stats.demolab.com?user=amaldapatrick001&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=C084FC&sideNums=C9D1D9&currStreakNum=FFFFFF" />
 
