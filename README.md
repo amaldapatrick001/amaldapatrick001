@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0714,50:1a0b2e,100:0D0714&height=200&section=header&text=Amalda%20Patrick&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Graduate&descAlignY=58&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0714,50:1a0b2e,100:0D0714&height=200&section=header&text=Amalda%20Patrick&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Graduate&descAlignY=58&descSize=14" width="100%"/> 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+Django+%7C+MySQL+%7C+PostgreSQL;Full-stack+development+and+applied+machine+learning;Teaching+Software+Engineering+and+Web+Development" alt="Typing SVG"/>
 
